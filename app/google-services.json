@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62789289086",
+    "project_id": "iterablesr",
+    "storage_bucket": "iterablesr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62789289086:android:f597d02a439f32253f842f",
+        "android_client_info": {
+          "package_name": "com.iterable.sr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzLKPWLWilGs2CX-h07XDxYV-zT09ABE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
